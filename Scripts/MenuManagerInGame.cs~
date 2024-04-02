@@ -1,0 +1,40 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class MenuManagerIngame : MonoBehaviour
+{
+    public GameObject ınGameScreen, pauseScreen;
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+
+    public void PauseButton()
+    {
+
+    }
+
+    public void PlayButton()
+    {
+
+    }
+
+    public void RePlayButton()
+    {
+
+    }
+
+    public void HomeButton()
+    {
+
+
+    }
+}
